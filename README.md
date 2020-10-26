@@ -1,2 +1,2 @@
-# gscoproject
-project for c20 gsco
+# GCSO
+GCSO
